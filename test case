@@ -1,0 +1,78 @@
+
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 1
+Enter student name: Aditya
+Enter student grades separated by spaces: 85 90 78 92    
+Aditya's grades added successfully.
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 1
+Enter student name: Aarjit
+Enter student grades separated by spaces: 88 92 85 91    
+Aarjit's grades added successfully.
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 1
+Enter student name: Oreo  
+Enter student grades separated by spaces: 95 92 89 88    
+Oreo's grades added successfully.
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 2
+Class Average: 88.75
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 3
+Top Performing Student(s):
+Student: Oreo, Average: 91.00
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice: 4
+
+Grade Report:
+Aditya: [85, 90, 78, 92], Average: 86.25
+Aarjit: [88, 92, 85, 91], Average: 89.00
+Oreo: [95, 92, 89, 88], Average: 91.00
+
+Student Grade Management System
+1. Add Student Grades
+2. View Class Average
+3. View Top Performing Students
+4. Generate Grade Report
+5. Exit
+Enter choice:   
+
+
+
+
